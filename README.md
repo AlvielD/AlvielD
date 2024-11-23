@@ -2,7 +2,7 @@
 👋 Hi, I’m Álvaro!<br>🎓 Graduate in Artificial Intelligence with a passion for developing innovative solutions to real-world problems.<br>🧠 Specialized in Natural Language Processing (NLP).<br>🚀 Currently Exploring: MLOps and scaling machine learning models with Azure ML.<br>🌟 Skills & Interests: Machine Learning, Data Science, and AI Ethics.<br><br>
 
 ## 📂 Check Out Some Of My Projects:<br>    
-  - Project 1: MS Marco Document Re-ranking - [[Repository](https://github.com/AlvielD/Universidad/tree/master/4_year/IRTM_1C/Workgroups/dat640-project)[Project Report](https://github.com/AlvielD/Universidad/blob/master/4_year/IRTM_1C/Workgroups/dat640-project/Team_003-DAT640_project_report.pdf)]
+  - Project 1: MS Marco Document Re-ranking - [[Repository](https://github.com/AlvielD/Universidad/tree/master/4_year/IRTM_1C/Workgroups/dat640-project)] [[Project Report](https://github.com/AlvielD/Universidad/blob/master/4_year/IRTM_1C/Workgroups/dat640-project/Team_003-DAT640_project_report.pdf)]
   - Project 2: Fake news detection with Deep Learning technics - [[Repository](https://github.com/AlvielD/TFG)]
   - Project 3: Music Lyrics Ontology and Knowledge Graph (ML) - [[Repository](https://github.com/AlvielD/music-lyrics)]
   - Project 4: Wearable Stress and Affect Detection in a Big Data environment - [[Repository](https://github.com/AlvielD/WESAD-BDA_Project)]<br><br>
